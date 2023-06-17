@@ -40,7 +40,7 @@
      		 <artifactId>tomcat7-maven-plugin</artifactId>
     		 <version>2.2</version>
     		 <configuration>
-       		 <url>http://107.20.24.134:8082/manager/text</url>
+       		 <url>http://54.196.169.4:8082/manager/text</url>
        		 <server>tomcat-remote</server>
        		 <path>/webapp</path>
      		 </configuration>
