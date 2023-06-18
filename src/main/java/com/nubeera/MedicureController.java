@@ -15,7 +15,7 @@ public class MedicureController {
 
 	@GetMapping("/hi")
 	public String sayHello() {
-		return "Greeting from Dr.Mujahed";
+		return "Greeting from Dr.Mujahed hi";
 	}
 
 	@GetMapping("/listAllDoctors")
